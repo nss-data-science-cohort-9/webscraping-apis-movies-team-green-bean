@@ -1,0 +1,101 @@
+title,vote_average,vote_count,budget,revenue,imdb_id,id,movie_genres,release_year
+Aloha,5.5,2110,37000000,26250020,tt1243974,222936,"['Drama', 'Comedy', 'Romance']",2015
+American Ultra,6.09,2876,28000000,27100000,tt3316948,261392,"['Action', 'Comedy']",2015
+Ant-Man,7.067,20422,130000000,519311965,tt0478970,102899,"['Science Fiction', 'Action', 'Adventure']",2015
+Avengers: Age of Ultron,7.271,23855,365000000,1405403694,tt2395427,99861,"['Action', 'Adventure', 'Science Fiction']",2015
+Black Mass,6.523,3487,53000000,99975678,tt1355683,261023,"['Drama', 'Crime', 'History']",2015
+Blackhat,5.514,2118,70000000,17752940,tt2717822,201088,"['Crime', 'Thriller', 'Action']",2015
+Bone Tomahawk,6.875,2413,1800000,475846,tt2494362,294963,"['Western', 'Horror', 'Drama']",2015
+Bridge of Spies,7.236,7083,40000000,165478348,tt3682448,296098,"['Thriller', 'Drama']",2015
+Brooklyn,7.31,3186,11000000,62076141,tt2381111,167073,"['Romance', 'Drama', 'History']",2015
+Burnt,6.5,3471,20000000,36606743,tt2503944,295964,['Drama'],2015
+Carol,7.495,3851,11800000,40272135,tt2402927,258480,"['Romance', 'Drama']",2015
+Chappie,6.784,8231,49000000,104399548,tt1823672,198184,"['Crime', 'Action', 'Science Fiction']",2015
+Cinderella,6.8,7248,95000000,543514353,tt1661199,150689,"['Romance', 'Fantasy', 'Family', 'Drama']",2015
+Circle,6.014,2070,250000,0,tt3118452,335866,"['Horror', 'Science Fiction', 'Mystery', 'Thriller']",2015
+Concussion,7.079,2649,35000000,50400000,tt3322364,321741,['Drama'],2015
+Creed,7.407,7739,37000000,173600000,tt3076658,312221,"['Drama', 'Action']",2015
+Crimson Peak,6.66,5112,55000000,74700000,tt2554274,201085,"['Horror', 'Mystery', 'Romance']",2015
+Daddy's Home,6.292,3321,50000000,242786137,tt1528854,274167,['Comedy'],2015
+Descendants,7.149,2444,0,0,tt3440298,277217,"['Family', 'Adventure', 'Fantasy', 'TV Movie', 'Music']",2015
+Everest,6.827,5079,55000000,203427584,tt2719848,253412,"['Adventure', 'Drama', 'History']",2015
+Fantastic Four,4.4,6264,120000000,167977596,tt1502712,166424,"['Action', 'Adventure', 'Science Fiction']",2015
+Fifty Shades of Grey,5.879,12163,40000000,569651467,tt2322441,216015,"['Drama', 'Romance', 'Thriller']",2015
+Focus,6.871,8097,50100000,153962963,tt2381941,256591,"['Romance', 'Comedy', 'Crime']",2015
+Furious 7,7.223,11018,190000000,1515400000,tt2820852,168259,"['Action', 'Crime', 'Thriller']",2015
+Get Hard,6.024,2807,40000000,111800000,tt2561572,257091,['Comedy'],2015
+Goosebumps,6.31,3898,58000000,158261424,tt1051904,257445,"['Adventure', 'Horror', 'Comedy']",2015
+Hardcore Henry,6.393,2549,2000000,16810562,tt3072482,325348,"['Action', 'Adventure', 'Science Fiction']",2015
+Hitman: Agent 47,5.886,3176,35000000,81967450,tt2679042,249070,"['Action', 'Crime', 'Thriller']",2015
+Home,6.789,4125,135000000,368871007,tt2224026,228161,"['Fantasy', 'Comedy', 'Animation', 'Science Fiction', 'Family']",2015
+Hotel Transylvania 2,6.8,5969,80000000,473200000,tt2510894,159824,"['Animation', 'Comedy', 'Family', 'Fantasy']",2015
+In the Heart of the Sea,6.8,4246,100000000,93900000,tt1390411,205775,"['Thriller', 'Drama', 'Adventure', 'Action', 'History']",2015
+Inside Out,7.91,22924,175000000,857611174,tt2096673,150540,"['Animation', 'Family', 'Adventure', 'Drama', 'Comedy']",2015
+Insidious: Chapter 3,6.283,3503,10000000,120453155,tt3195644,280092,"['Horror', 'Thriller']",2015
+Insurgent,6.364,10237,110000000,297002527,tt2908446,262500,"['Action', 'Science Fiction', 'Thriller']",2015
+Irrational Man,6.527,2426,11000000,27391084,tt3715320,282984,"['Drama', 'Comedy']",2015
+It Follows,6.59,6691,2300000,23374076,tt3235888,270303,"['Horror', 'Mystery']",2015
+Joy,6.551,4205,60000000,101134059,tt2446980,274479,"['Drama', 'Comedy']",2015
+Jupiter Ascending,5.459,6930,176000000,184000000,tt1617661,76757,"['Science Fiction', 'Fantasy', 'Action']",2015
+Jurassic World,6.699,21102,150000000,1671537444,tt0369610,135397,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",2015
+Kingsman: The Secret Service,7.6,17390,81000000,414351546,tt2802144,207703,"['Crime', 'Comedy', 'Action', 'Adventure']",2015
+Knock Knock,5.392,3373,10000000,6341684,tt3605418,263472,"['Horror', 'Thriller']",2015
+Krampus,6.192,2304,15000000,61800000,tt3850590,287903,"['Horror', 'Comedy', 'Fantasy']",2015
+Legend,7.054,4112,25000000,42972994,tt3569230,276907,"['Crime', 'Thriller']",2015
+Love,6.45,2596,3000000,249083,tt3774694,292431,"['Drama', 'Romance']",2015
+Mad Max: Fury Road,7.6,23511,150000000,378858340,tt1392190,76341,"['Action', 'Adventure', 'Science Fiction']",2015
+Maze Runner: The Scorch Trials,6.733,10768,61000000,312296056,tt4046784,294254,"['Science Fiction', 'Action', 'Thriller', 'Adventure']",2015
+Me and Earl and the Dying Girl,7.532,2676,0,0,tt2582496,308369,"['Drama', 'Comedy']",2015
+Minions,6.416,10879,74000000,1159457503,tt2293640,211672,"['Family', 'Animation', 'Adventure', 'Comedy']",2015
+Mission: Impossible - Rogue Nation,7.2,9385,150000000,682716636,tt2381249,177677,"['Action', 'Adventure']",2015
+Mortdecai,5.5,2704,60000000,47318560,tt3045616,210860,"['Comedy', 'Adventure']",2015
+No Escape,6.9,2636,5000000,54400000,tt1781922,192141,"['Thriller', 'Action']",2015
+Pan,5.957,2792,150000000,128388320,tt3332064,266647,"['Fantasy', 'Adventure', 'Family', 'Action']",2015
+Paper Towns,6.155,5122,12000000,85500000,tt3622592,286565,"['Mystery', 'Drama', 'Romance']",2015
+Pitch Perfect 2,6.844,5420,29000000,287144079,tt2848292,254470,"['Comedy', 'Music']",2015
+Pixels,5.8,7828,88000000,244874809,tt2120120,257344,"['Action', 'Comedy', 'Science Fiction', 'Fantasy']",2015
+Point Break,5.955,2379,105000000,133782481,tt2058673,257088,"['Action', 'Adventure', 'Crime', 'Thriller']",2015
+Poltergeist,5.218,2348,35000000,95682614,tt1029360,243688,['Horror'],2015
+Project Almanac,6.8,2742,12000000,33200000,tt2436386,227719,"['Science Fiction', 'Thriller']",2015
+Room,7.998,9479,13000000,35401758,tt3170832,264644,"['Drama', 'Thriller']",2015
+Run All Night,6.4,2889,50000000,71561644,tt2199571,241554,"['Action', 'Crime', 'Thriller']",2015
+San Andreas,6.2,8820,110000000,473990832,tt2126355,254128,"['Action', 'Drama', 'Thriller']",2015
+Self/less,6.412,3211,26000000,31807156,tt2140379,238615,"['Science Fiction', 'Action', 'Thriller']",2015
+Sicario,7.415,9182,30000000,84997446,tt3397884,273481,"['Action', 'Crime', 'Thriller']",2015
+Sinister 2,5.883,2226,10000000,53329150,tt2752772,283445,['Horror'],2015
+Solace,6.427,2311,0,22586863,tt1291570,339527,"['Thriller', 'Crime', 'Mystery']",2015
+Southpaw,7.364,5656,30000000,91709827,tt1798684,307081,"['Action', 'Drama']",2015
+Spectre,6.6,10917,245000000,880707597,tt2379713,206647,"['Action', 'Adventure', 'Thriller']",2015
+Spotlight,7.8,8541,20000000,98690254,tt1895587,314365,"['Drama', 'History']",2015
+Spy,6.832,6229,65000000,235666219,tt3079380,238713,"['Action', 'Comedy', 'Crime']",2015
+Star Wars: The Force Awakens,7.254,20075,245000000,2068223624,tt2488496,140607,"['Adventure', 'Action', 'Science Fiction']",2015
+Steve Jobs,6.8,4261,30000000,34400000,tt2080374,321697,"['Drama', 'History']",2015
+Straight Outta Compton,7.783,4079,28000000,201634991,tt1398426,277216,"['Drama', 'Music', 'History']",2015
+Ted 2,6.316,7789,68000000,215863606,tt2637276,214756,"['Comedy', 'Fantasy']",2015
+Terminator Genisys,5.946,8730,155000000,440603537,tt1340138,87101,"['Science Fiction', 'Action', 'Thriller', 'Adventure']",2015
+The Age of Adaline,7.477,6929,25000000,65663276,tt1655441,293863,"['Romance', 'Fantasy', 'Drama']",2015
+The Big Short,7.359,9484,28000000,133346506,tt1596363,318846,"['Comedy', 'Drama']",2015
+The Boy Next Door,4.919,2089,4000000,52425855,tt3181822,241251,['Thriller'],2015
+The DUFF,6.766,4424,8500000,43528634,tt1666801,272693,"['Romance', 'Comedy']",2015
+The Danish Girl,7.558,5868,15000000,64200000,tt0810819,306819,['Drama'],2015
+The Gift,6.695,3372,5000000,58978653,tt4178092,328425,"['Thriller', 'Mystery', 'Drama']",2015
+The Good Dinosaur,6.7,5834,175000000,332207671,tt1979388,105864,"['Adventure', 'Animation', 'Family']",2015
+The Hateful Eight,7.756,14812,44000000,155760117,tt3460252,273248,"['Drama', 'Mystery', 'Western']",2015
+The Hunger Games: Mockingjay - Part 2,6.899,13025,160000000,653428261,tt1951266,131634,"['Action', 'Adventure', 'Science Fiction']",2015
+The Intern,7.2,7070,35000000,194564672,tt2361509,257211,['Comedy'],2015
+The Last Witch Hunter,6.003,3735,90000000,146936910,tt1618442,274854,"['Action', 'Adventure', 'Fantasy']",2015
+The Little Prince,7.611,2887,64000000,97571250,tt1754656,309809,"['Adventure', 'Animation', 'Fantasy', 'Family']",2015
+The Lobster,7.037,6611,4000000,15700000,tt3464902,254320,"['Comedy', 'Drama', 'Romance']",2015
+The Longest Ride,7.6,3254,34000000,63013281,tt2726560,228205,"['Drama', 'Romance']",2015
+The Man from U.N.C.L.E.,7.081,6626,75000000,110045109,tt1638355,203801,"['Comedy', 'Action', 'Adventure']",2015
+The Martian,7.691,20590,108000000,631058917,tt3659388,286217,"['Drama', 'Adventure', 'Science Fiction']",2015
+The Revenant,7.537,18785,135000000,532950503,tt1663202,281957,"['Western', 'Drama', 'Adventure']",2015
+The SpongeBob Movie: Sponge Out of Water,6.1,2453,74000000,325186032,tt2279373,228165,"['Family', 'Comedy', 'Adventure', 'Animation', 'Fantasy']",2015
+The Visit,6.323,4981,5000000,98450062,tt3567288,298312,"['Horror', 'Thriller']",2015
+The Walk,6.995,3297,35000000,61181942,tt3488710,285783,"['History', 'Drama', 'Adventure']",2015
+Tomorrowland,6.3,7196,190000000,209200000,tt1964418,158852,"['Adventure', 'Family', 'Mystery', 'Science Fiction']",2015
+Trainwreck,5.797,2656,35000000,140795793,tt3152624,271718,"['Comedy', 'Romance']",2015
+Vacation,6.304,3863,31000000,104400000,tt1524930,296099,"['Comedy', 'Adventure']",2015
+Victor Frankenstein,5.948,2202,40000000,34200000,tt1976009,228066,"['Drama', 'Science Fiction', 'Thriller']",2015
+We Are Your Friends,6.786,2402,6000000,11100000,tt3787590,301351,"['Drama', 'Music', 'Romance', 'Comedy']",2015
+Youth,6.9,2144,13360000,2000000,tt3312830,310593,"['Comedy', 'Drama', 'Romance']",2015
