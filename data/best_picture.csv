@@ -1,0 +1,612 @@
+Year,Film,Winner
+1927,Wings,Yes
+1927,7th Heaven,No
+1927,The Racket,No
+1928,The Broadway Melody,Yes
+1928,Alibi,No
+1928,The Hollywood Revue,No
+1928,In Old Arizona,No
+1928,The Patriot,No
+1929,All Quiet on the Western Front,Yes
+1929,The Big House,No
+1929,Disraeli,No
+1929,The Divorcee,No
+1929,The Love Parade,No
+1930,Cimarron,Yes
+1930,East Lynne,No
+1930,The Front Page,No
+1930,Skippy,No
+1930,Trader Horn,No
+1931,Grand Hotel,Yes
+1931,Arrowsmith,No
+1931,Bad Girl,No
+1931,The Champ,No
+1931,Five Star Final,No
+1931,One Hour with You,No
+1931,Shanghai Express,No
+1931,The Smiling Lieutenant,No
+1932,Cavalcade,Yes
+1932,42nd Street,No
+1932,A Farewell to Arms,No
+1932,I Am a Fugitive from a Chain Gang,No
+1932,Lady for a Day,No
+1932,Little Women,No
+1932,The Private Life of Henry VIII,No
+1932,She Done Him Wrong,No
+1932,Smilin' Through,No
+1932,State Fair,No
+1934,It Happened One Night,Yes
+1934,The Barretts of Wimpole Street,No
+1934,Cleopatra,No
+1934,Flirtation Walk,No
+1934,The Gay Divorcee,No
+1934,Here Comes the Navy,No
+1934,The House of Rothschild,No
+1934,Imitation of Life,No
+1934,One Night of Love,No
+1934,The Thin Man,No
+1934,Viva Villa!,No
+1934,The White Parade,No
+1935,Mutiny on the Bounty,Yes
+1935,Alice Adams,No
+1935,Broadway Melody of 1936,No
+1935,Captain Blood,No
+1935,David Copperfield,No
+1935,The Informer,No
+1935,The Lives of a Bengal Lancer,No
+1935,A Midsummer Night's Dream,No
+1935,Les Misérables,No
+1935,Naughty Marietta,No
+1935,Ruggles of Red Gap,No
+1935,Top Hat,No
+1936,The Great Ziegfeld,Yes
+1936,Anthony Adverse,No
+1936,Dodsworth,No
+1936,Libeled Lady,No
+1936,Mr. Deeds Goes to Town,No
+1936,Romeo and Juliet,No
+1936,San Francisco,No
+1936,The Story of Louis Pasteur,No
+1936,A Tale of Two Cities,No
+1936,Three Smart Girls,No
+1937,The Life of Emile Zola,Yes
+1937,The Awful Truth,No
+1937,Captains Courageous,No
+1937,Dead End,No
+1937,The Good Earth,No
+1937,In Old Chicago,No
+1937,Lost Horizon,No
+1937,One Hundred Men and a Girl,No
+1937,Stage Door,No
+1937,A Star Is Born,No
+1938,You Can't Take It with You,Yes
+1938,The Adventures of Robin Hood,No
+1938,Alexander's Ragtime Band,No
+1938,Boys Town,No
+1938,The Citadel,No
+1938,Four Daughters,No
+1938,Grand Illusion,No
+1938,Jezebel,No
+1938,Pygmalion,No
+1938,Test Pilot,No
+1939,Gone with the Wind,Yes
+1939,Dark Victory,No
+1939,"Goodbye, Mr. Chips",No
+1939,Love Affair,No
+1939,Mr. Smith Goes to Washington,No
+1939,Ninotchka,No
+1939,Of Mice and Men,No
+1939,Stagecoach,No
+1939,The Wizard of Oz,No
+1939,Wuthering Heights,No
+1940,Rebecca,Yes
+1940,"All This, and Heaven Too",No
+1940,Foreign Correspondent,No
+1940,The Grapes of Wrath,No
+1940,The Great Dictator,No
+1940,Kitty Foyle,No
+1940,The Letter,No
+1940,The Long Voyage Home,No
+1940,Our Town,No
+1940,The Philadelphia Story,No
+1941,How Green Was My Valley,Yes
+1941,Blossoms in the Dust,No
+1941,Citizen Kane,No
+1941,Here Comes Mr. Jordan,No
+1941,Hold Back the Dawn,No
+1941,The Little Foxes,No
+1941,The Maltese Falcon,No
+1941,One Foot in Heaven,No
+1941,Sergeant York,No
+1941,Suspicion,No
+1942,Mrs. Miniver,Yes
+1942,49th Parallel[83],No
+1942,Kings Row,No
+1942,The Magnificent Ambersons,No
+1942,The Pied Piper,No
+1942,The Pride of the Yankees,No
+1942,Random Harvest,No
+1942,The Talk of the Town,No
+1942,Wake Island,No
+1942,Yankee Doodle Dandy,No
+1943,Casablanca,Yes
+1943,For Whom the Bell Tolls,No
+1943,Heaven Can Wait,No
+1943,The Human Comedy,No
+1943,In Which We Serve,No
+1943,Madame Curie,No
+1943,The More the Merrier,No
+1943,The Ox-Bow Incident,No
+1943,The Song of Bernadette,No
+1943,Watch on the Rhine,No
+1944,Going My Way,Yes
+1944,Double Indemnity,No
+1944,Gaslight,No
+1944,Since You Went Away,No
+1944,Wilson,No
+1945,The Lost Weekend,Yes
+1945,Anchors Aweigh,No
+1945,The Bells of St. Mary's,No
+1945,Mildred Pierce,No
+1945,Spellbound,No
+1946,The Best Years of Our Lives,Yes
+1946,Henry V,No
+1946,It's a Wonderful Life,No
+1946,The Razor's Edge,No
+1946,The Yearling,No
+1947,Gentleman's Agreement,Yes
+1947,The Bishop's Wife,No
+1947,Crossfire,No
+1947,Great Expectations,No
+1947,Miracle on 34th Street,No
+1948,Hamlet,Yes
+1948,Johnny Belinda,No
+1948,The Red Shoes,No
+1948,The Snake Pit,No
+1948,The Treasure of the Sierra Madre,No
+1949,All the King's Men,Yes
+1949,Battleground,No
+1949,The Heiress,No
+1949,A Letter to Three Wives,No
+1949,Twelve O'Clock High,No
+1950,All About Eve,Yes
+1950,Born Yesterday,No
+1950,Father of the Bride,No
+1950,King Solomon's Mines,No
+1950,Sunset Boulevard,No
+1951,An American in Paris,Yes
+1951,Decision Before Dawn,No
+1951,A Place in the Sun,No
+1951,Quo Vadis,No
+1951,A Streetcar Named Desire,No
+1952,The Greatest Show on Earth,Yes
+1952,High Noon,No
+1952,Ivanhoe,No
+1952,Moulin Rouge,No
+1952,The Quiet Man,No
+1953,From Here to Eternity,Yes
+1953,Julius Caesar,No
+1953,The Robe,No
+1953,Roman Holiday,No
+1953,Shane,No
+1954,On the Waterfront,Yes
+1954,The Caine Mutiny,No
+1954,The Country Girl,No
+1954,Seven Brides for Seven Brothers,No
+1954,Three Coins in the Fountain,No
+1955,Marty,Yes
+1955,Love Is a Many-Splendored Thing,No
+1955,Mister Roberts,No
+1955,Picnic,No
+1955,The Rose Tattoo,No
+1956,Around the World in 80 Days,Yes
+1956,Friendly Persuasion,No
+1956,Giant,No
+1956,The King and I,No
+1956,The Ten Commandments,No
+1957,The Bridge on the River Kwai,Yes
+1957,12 Angry Men,No
+1957,Peyton Place,No
+1957,Sayonara,No
+1957,Witness for the Prosecution,No
+1958,Gigi,Yes
+1958,Auntie Mame,No
+1958,Cat on a Hot Tin Roof,No
+1958,The Defiant Ones,No
+1958,Separate Tables,No
+1959,Ben-Hur,Yes
+1959,Anatomy of a Murder,No
+1959,The Diary of Anne Frank,No
+1959,The Nun's Story,No
+1959,Room at the Top,No
+1960,The Apartment,Yes
+1960,The Alamo,No
+1960,Elmer Gantry,No
+1960,Sons and Lovers,No
+1960,The Sundowners,No
+1961,West Side Story,Yes
+1961,Fanny,No
+1961,The Guns of Navarone,No
+1961,The Hustler,No
+1961,Judgment at Nuremberg,No
+1962,Lawrence of Arabia,Yes
+1962,The Longest Day,No
+1962,The Music Man,No
+1962,Mutiny on the Bounty,Yes
+1962,To Kill a Mockingbird,No
+1963,Tom Jones,Yes
+1963,America America,No
+1963,Cleopatra,No
+1963,How the West Was Won,No
+1963,Lilies of the Field,No
+1964,My Fair Lady,Yes
+1964,Becket,No
+1964,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,No
+1964,Mary Poppins,No
+1964,Zorba the Greek,No
+1965,The Sound of Music,Yes
+1965,Darling,No
+1965,Doctor Zhivago,No
+1965,Ship of Fools,No
+1965,A Thousand Clowns,No
+1966,A Man for All Seasons,Yes
+1966,Alfie,No
+1966,"The Russians Are Coming, the Russians Are Coming",No
+1966,The Sand Pebbles,No
+1966,Who's Afraid of Virginia Woolf?,No
+1967,In the Heat of the Night,Yes
+1967,Bonnie and Clyde,No
+1967,Doctor Dolittle,No
+1967,The Graduate,No
+1967,Guess Who's Coming to Dinner,No
+1968,Oliver!,Yes
+1968,Funny Girl,No
+1968,The Lion in Winter,No
+1968,"Rachel, Rachel",No
+1968,Romeo and Juliet,No
+1969,Midnight Cowboy,Yes
+1969,Anne of the Thousand Days,No
+1969,Butch Cassidy and the Sundance Kid,No
+1969,"Hello, Dolly!",No
+1969,Z,No
+1970,Patton,Yes
+1970,Airport,No
+1970,Five Easy Pieces,No
+1970,Love Story,No
+1970,M*A*S*H,No
+1971,The French Connection,Yes
+1971,A Clockwork Orange,No
+1971,Fiddler on the Roof,No
+1971,The Last Picture Show,No
+1971,Nicholas and Alexandra,No
+1972,The Godfather,Yes
+1972,Cabaret,No
+1972,Deliverance,No
+1972,The Emigrants,No
+1972,Sounder,No
+1973,The Sting,Yes
+1973,American Graffiti,No
+1973,Cries and Whispers,No
+1973,The Exorcist,No
+1973,A Touch of Class,No
+1974,The Godfather Part II,Yes
+1974,Chinatown,No
+1974,The Conversation,No
+1974,Lenny,No
+1974,The Towering Inferno,No
+1975,One Flew Over the Cuckoo's Nest,Yes
+1975,Barry Lyndon,No
+1975,Dog Day Afternoon,No
+1975,Jaws,No
+1975,Nashville,No
+1976,Rocky,Yes
+1976,All the President's Men,No
+1976,Bound for Glory,No
+1976,Network,No
+1976,Taxi Driver,No
+1977,Annie Hall,Yes
+1977,The Goodbye Girl,No
+1977,Julia,No
+1977,Star Wars,No
+1977,The Turning Point,No
+1978,The Deer Hunter,Yes
+1978,Coming Home,No
+1978,Heaven Can Wait,No
+1978,Midnight Express,No
+1978,An Unmarried Woman,No
+1979,Kramer vs. Kramer,Yes
+1979,All That Jazz,No
+1979,Apocalypse Now,No
+1979,Breaking Away,No
+1979,Norma Rae,No
+1980,Ordinary People,Yes
+1980,Coal Miner's Daughter,No
+1980,The Elephant Man,No
+1980,Raging Bull,No
+1980,Tess,No
+1981,Chariots of Fire,Yes
+1981,Atlantic City,No
+1981,On Golden Pond,No
+1981,Raiders of the Lost Ark,No
+1981,Reds,No
+1982,Gandhi,Yes
+1982,E.T. the Extra-Terrestrial,No
+1982,Missing,No
+1982,Tootsie,No
+1982,The Verdict,No
+1983,Terms of Endearment,Yes
+1983,The Big Chill,No
+1983,The Dresser,No
+1983,The Right Stuff,No
+1983,Tender Mercies,No
+1984,Amadeus,Yes
+1984,The Killing Fields,No
+1984,A Passage to India,No
+1984,Places in the Heart,No
+1984,A Soldier's Story,No
+1985,Out of Africa,Yes
+1985,The Color Purple,No
+1985,Kiss of the Spider Woman,No
+1985,Prizzi's Honor,No
+1985,Witness,No
+1986,Platoon,Yes
+1986,Children of a Lesser God,No
+1986,Hannah and Her Sisters,No
+1986,The Mission,No
+1986,A Room with a View,No
+1987,The Last Emperor,Yes
+1987,Broadcast News,No
+1987,Fatal Attraction,No
+1987,Hope and Glory,No
+1987,Moonstruck,No
+1988,Rain Man,Yes
+1988,The Accidental Tourist,No
+1988,Dangerous Liaisons,No
+1988,Mississippi Burning,No
+1988,Working Girl,No
+1989,Driving Miss Daisy,Yes
+1989,Born on the Fourth of July,No
+1989,Dead Poets Society,No
+1989,Field of Dreams,No
+1989,My Left Foot,No
+1990,Dances With Wolves,Yes
+1990,Awakenings,No
+1990,Ghost,No
+1990,The Godfather Part III,No
+1990,Goodfellas,No
+1991,The Silence of the Lambs,Yes
+1991,Beauty and the Beast,No
+1991,Bugsy,No
+1991,JFK,No
+1991,The Prince of Tides,No
+1992,Unforgiven,Yes
+1992,The Crying Game,No
+1992,A Few Good Men,No
+1992,Howards End,No
+1992,Scent of a Woman,No
+1993,Schindler's List,Yes
+1993,The Fugitive,No
+1993,In the Name of the Father,No
+1993,The Piano,No
+1993,The Remains of the Day,No
+1994,Forrest Gump,Yes
+1994,Four Weddings and a Funeral,No
+1994,Pulp Fiction,No
+1994,Quiz Show,No
+1994,The Shawshank Redemption,No
+1995,Braveheart,Yes
+1995,Apollo 13,No
+1995,Babe,No
+1995,Il Postino: The Postman,No
+1995,Sense and Sensibility,No
+1996,The English Patient,Yes
+1996,Fargo,No
+1996,Jerry Maguire,No
+1996,Secrets & Lies,No
+1996,Shine,No
+1997,Titanic,Yes
+1997,As Good as It Gets,No
+1997,The Full Monty,No
+1997,Good Will Hunting,No
+1997,L.A. Confidential,No
+1998,Shakespeare in Love,Yes
+1998,Elizabeth,No
+1998,Life Is Beautiful,No
+1998,Saving Private Ryan,No
+1998,The Thin Red Line,No
+1999,American Beauty,Yes
+1999,The Cider House Rules,No
+1999,The Green Mile,No
+1999,The Insider,No
+1999,The Sixth Sense,No
+2000,Gladiator,Yes
+2000,Chocolat,No
+2000,"Crouching Tiger, Hidden Dragon",No
+2000,Erin Brockovich,No
+2000,Traffic,No
+2001,A Beautiful Mind,Yes
+2001,Gosford Park,No
+2001,In the Bedroom,No
+2001,The Lord of the Rings: The Fellowship of the Ring,No
+2001,Moulin Rouge!,No
+2002,Chicago,Yes
+2002,Gangs of New York,No
+2002,The Hours,No
+2002,The Lord of the Rings: The Two Towers,No
+2002,The Pianist,No
+2003,The Lord of the Rings: The Return of the King,Yes
+2003,Lost in Translation,No
+2003,Master and Commander: The Far Side of the World,No
+2003,Mystic River,No
+2003,Seabiscuit,No
+2004,Million Dollar Baby,Yes
+2004,The Aviator,No
+2004,Finding Neverland,No
+2004,Ray,No
+2004,Sideways,No
+2005,Crash,Yes
+2005,Brokeback Mountain,No
+2005,Capote,No
+2005,"Good Night, and Good Luck",No
+2005,Munich,No
+2006,The Departed,Yes
+2006,Babel,No
+2006,Letters from Iwo Jima,No
+2006,Little Miss Sunshine,No
+2006,The Queen,No
+2007,No Country for Old Men,Yes
+2007,Atonement,No
+2007,Juno,No
+2007,Michael Clayton,No
+2007,There Will Be Blood,No
+2008,Slumdog Millionaire,Yes
+2008,The Curious Case of Benjamin Button,No
+2008,Frost/Nixon,No
+2008,Milk,No
+2008,The Reader,No
+2009,The Hurt Locker,Yes
+2009,Avatar,No
+2009,The Blind Side,No
+2009,District 9,No
+2009,An Education,No
+2009,Inglourious Basterds,No
+2009,"Precious: Based on the Novel ""Push"" by Sapphire",No
+2009,A Serious Man,No
+2009,Up,No
+2009,Up in the Air,No
+2010,The King's Speech,Yes
+2010,Black Swan,No
+2010,The Fighter,No
+2010,Inception,No
+2010,The Kids Are All Right,No
+2010,127 Hours,No
+2010,The Social Network,No
+2010,Toy Story 3,No
+2010,True Grit,No
+2010,Winter's Bone,No
+2011,The Artist,Yes
+2011,The Descendants,No
+2011,Extremely Loud & Incredibly Close,No
+2011,The Help,No
+2011,Hugo,No
+2011,Midnight in Paris,No
+2011,Moneyball,No
+2011,The Tree of Life,No
+2011,War Horse,No
+2012,Argo,Yes
+2012,Amour,No
+2012,Beasts of the Southern Wild,No
+2012,Django Unchained,No
+2012,Life of Pi,No
+2012,Lincoln,No
+2012,Les Misérables,No
+2012,Silver Linings Playbook,No
+2012,Zero Dark Thirty,No
+2013,12 Years a Slave,Yes
+2013,American Hustle,No
+2013,Captain Phillips,No
+2013,Dallas Buyers Club,No
+2013,Gravity,No
+2013,Her,No
+2013,Nebraska,No
+2013,Philomena,No
+2013,The Wolf of Wall Street,No
+2014,Birdman or (The Unexpected Virtue of Ignorance),No
+2014,American Sniper,No
+2014,Boyhood,No
+2014,The Grand Budapest Hotel,No
+2014,The Imitation Game,No
+2014,Selma,No
+2014,The Theory of Everything,No
+2014,Whiplash,No
+2015,Spotlight,Yes
+2015,The Big Short,No
+2015,Bridge of Spies,No
+2015,Brooklyn,No
+2015,Mad Max: Fury Road,No
+2015,The Martian,No
+2015,The Revenant,No
+2015,Room,No
+2016,Moonlight,Yes
+2016,Arrival,No
+2016,Fences,No
+2016,Hacksaw Ridge,No
+2016,Hell or High Water,No
+2016,Hidden Figures,No
+2016,La La Land,No
+2016,Lion,No
+2016,Manchester by the Sea,No
+2017,The Shape of Water,Yes
+2017,Call Me by Your Name,No
+2017,Darkest Hour,No
+2017,Dunkirk,No
+2017,Get Out,No
+2017,Lady Bird,No
+2017,Phantom Thread,No
+2017,The Post,No
+2017,"Three Billboards Outside Ebbing, Missouri",No
+2018,Green Book,Yes
+2018,Black Panther,No
+2018,BlacKkKlansman,No
+2018,Bohemian Rhapsody,No
+2018,The Favourite,No
+2018,Roma,No
+2018,A Star Is Born,No
+2018,Vice,No
+2019,Parasite,Yes
+2019,Ford v Ferrari,No
+2019,The Irishman,No
+2019,Jojo Rabbit,No
+2019,Joker,No
+2019,Little Women,No
+2019,Marriage Story,No
+2019,1917,No
+2019,Once Upon a Time in Hollywood,No
+2020,Nomadland,Yes
+2020,The Father,No
+2020,Judas and the Black Messiah,No
+2020,Mank,No
+2020,Minari,No
+2020,Promising Young Woman,No
+2020,Sound of Metal,No
+2020,The Trial of the Chicago 7,No
+2021,CODA,Yes
+2021,Belfast,No
+2021,Don't Look Up,No
+2021,Drive My Car,No
+2021,Dune,No
+2021,King Richard,No
+2021,Licorice Pizza,No
+2021,Nightmare Alley,No
+2021,The Power of the Dog,No
+2021,West Side Story,Yes
+2022,Everything Everywhere All at Once,Yes
+2022,All Quiet on the Western Front,Yes
+2022,Avatar: The Way of Water,No
+2022,The Banshees of Inisherin,No
+2022,Elvis,No
+2022,The Fabelmans,No
+2022,Tár,No
+2022,Top Gun: Maverick,No
+2022,Triangle of Sadness,No
+2022,Women Talking,No
+2023,Oppenheimer,Yes
+2023,American Fiction,No
+2023,Anatomy of a Fall,No
+2023,Barbie,No
+2023,The Holdovers,No
+2023,Killers of the Flower Moon,No
+2023,Maestro,No
+2023,Past Lives,No
+2023,Poor Things,No
+2023,The Zone of Interest,No
+2024,Anora,Yes
+2024,The Brutalist,No
+2024,A Complete Unknown,No
+2024,Conclave,No
+2024,Dune: Part Two,No
+2024,Emilia Pérez,No
+2024,I'm Still Here,No
+2024,Nickel Boys,No
+2024,The Substance,No
+2024,Wicked,No
